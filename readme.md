@@ -1,5 +1,3 @@
-French translation by kiouv - [Journal du Verse](https://www.journalduverse.com/)
-
 ## MrKraken's One Page Guide Translations
 This repository is dedicated to my one-page guides. I make them in illustrator and from 2025-03-20 am setting them up in a way for people to contribute translations.
 You can find the rendered versions on my [Community Hub profile](https://robertsspaceindustries.com/community-hub/user/MrKraken)
