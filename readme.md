@@ -18,3 +18,7 @@ in the \GUIDENAME\ folders there is a variables.xml file
 
 ## Why No Googlesheet?
 I was originally going to set this up as a googlesheet and distribute the link to people who wanted to add translations, but the Adobe variables files are not easily parsed to grab all the variable names. It would have taken me far too long to make a parser for the files so github it is!
+
+
+## Contributors
+- Hathor :fr: translation by [kiouv](https://x.com/Journalduverse)
