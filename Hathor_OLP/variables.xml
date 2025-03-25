@@ -77,179 +77,180 @@
 			<variable  category="&ns_flows;" trait="textcontent" varName="TRANSLATED_BY"></variable>
 		</variables>
 		<v:sampleDataSets  xmlns="http://ns.adobe.com/GenericCustomNamespace/1.0/" xmlns:v="http://ns.adobe.com/Variables/1.0/">
-			<v:sampleDataSet  dataSetName="en_GB">
+			<v:sampleDataSet  dataSetName="fr_FR">
 				<TITLE>
-					<p>ORBITAL LASER IGNITION</p>
+					<p>DÉMARRAGE LASER ORBITAL</p>
 				</TITLE>
 				<SUBTITLE>
-					<p>ONE-PAGE GUIDE</p>
+					<p>GUIDE EN 1 PAGE</p>
 				</SUBTITLE>
 				<SUMMARY_LINE_1>
-					<p>‘Derelict’      Hathor facilities are a mission location combined with a sandbox activity for ground &amp; flight
-						</p>
+					<p>Les installations 'Derelict'    Hathor combinent une mission en plusieurs étapes avec des activités au sol &amp; dans l’espace.</p>
 				</SUMMARY_LINE_1>
 				<SUMMARY_TITLE>
-					<p>AT A</p>
-					<p>GLANCE</p>
+					<p>EN UN</p>
+					<p>COUP</p>
+					<p>D'OEIL</p>
 				</SUMMARY_TITLE>
 				<SUMMARY_LINE_2>
-					<p>Occupied by     9Tails gang with a fast respawn rate</p>
+					<p>Occupées par les      9Tails avec un taux de réapparition rapide</p>
 				</SUMMARY_LINE_2>
 				<SUMMARY_LINE_3>
-					<p>There are several new mercenary contracts that direct you to the facilities including Unverified contracts</p>
+					<p>Des nouveaux contrats de mercénariat, dont des non vérifiés, proposent des missions menant à ces installations</p>
 				</SUMMARY_LINE_3>
 				<SUMMARY_LINE_4>
-					<p>Aberdeen &amp; Daymar have 2 Orbital Laser Platforms (OLP)</p>
+					<p>Aberdeen &amp; Daymar ont 2 'Orbital Laser Platforms' (OLP)</p>
 				</SUMMARY_LINE_4>
 				<SUMMARY_LINE_5>
-					<p>Each OLP is linked to 1 unmarked control bunker &amp;</p>
-					<p>3 Planetary Alignment Facilities (PAF)</p>
+					<p>Chaque OLP est liée à 1 bunker de contrôle non marqué &amp;</p>
+					<p>3 'Planetary Alignment Facilities' (PAF)</p>
 				</SUMMARY_LINE_5>
 				<SAFETY_TITLE>
-					<p>SAFETY</p>
-					<p>FIRST</p>
+					<p>PRIORITÉ</p>
+					<p>SÉCURITÉ</p>
 				</SAFETY_TITLE>
 				<SAFETY_INFO>
-					<p>Be prepared, the NPC’s respawn fast &amp; hit hard</p>
-					<p>Good idea to take a Nursa/Medipin/Cutty Red or C8R</p>
+					<p>Préparez vous, les PNJ réapparaissent vite &amp; tapent fort</p>
+					<p>Bonne idée : Nursa/Medipin/Cutty Red ou C8R</p>
 				</SAFETY_INFO>
 				<SAFETY_ITEMS>
-					<p>Items required for PAF/OLP activities:</p>
+					<p>Objets requis pour les missions PAF/OLP:</p>
 				</SAFETY_ITEMS>
 				<ITEM_MAXLIFT>
 					<p>MaxLift Tractor</p>
 				</ITEM_MAXLIFT>
 				<ITEM_MEDICAL>
-					<p>MEDICAL SUPPLIES</p>
+					<p>MATÉRIEL MÉDICAL</p>
 				</ITEM_MEDICAL>
 				<ITEM_FUSE>
-					<p>FUSE</p>
+					<p>FUSIBLE</p>
 				</ITEM_FUSE>
 				<STAGE_1_NUM>
-					<p>STAGE 1</p>
+					<p>ÉTAPE 1</p>
 				</STAGE_1_NUM>
 				<STAGE_1_TITLE>
-					<p>PLANETARy ALIGNMENT FACILITY</p>
+					<p>Installation d’alignement planétaire (PAF)</p>
 				</STAGE_1_TITLE>
 				<STAGE_1_OBJECTIVE_TITLE>
-					<p>MAIN OBJECTIVE</p>
+					<p>OBJECTIF PRINCIPAL</p>
 				</STAGE_1_OBJECTIVE_TITLE>
 				<STAGE_1_OBJECTIVE>
-					<p>Acquire 3 ‘Alignment Blades’ per location to activate the Dish Controls at PAF-I, PAF-II &amp; PAF-III</p>
+					<p>Récupérer 3 lames d’alignement par site pour activer les commandes du satellite aux PAF-I, PAF-II &amp; PAF-III</p>
 				</STAGE_1_OBJECTIVE>
 				<STAGE_1_1>
 					<p>
-						Look for maintenance kiosks in smaller buildings to open blue garage doors that provide loot rooms or access to a security kiosk
+						Chercher des bornes de maintenance dans les petits bâtiments pour ouvrir les portes de garage bleues ou accéder à un terminal de sécurité
 						</p>
 				</STAGE_1_1>
 				<STAGE_1_2>
-					<p>Printing PAF Maintenace Keys &amp; PAF Security Keys has a 45 minute cooldown</p>
+					<p>Imprimer des clés de maintenance PAF &amp; clés de sécurité PAF (temps de recharge 45 minutes)</p>
 					<p></p>
-					<p>When you have 3 Security Keys head to the base of the antenna building to access the Security, Comms &amp; Admin rooms
+					<p>Une fois les 3 clés de sécurité obtenues, aller à la base du bâtiment d’antenne pour accéder aux salles sécurité, comms &amp; admin
 						</p>
 					<p></p>
-					<p>Acquire the Alignment Blades from each room (Blade respawn timer unknown)</p>
+					<p>Récupérer les lames d’alignement dans chaque piéce (temps de réapparition inconnu)</p>
 				</STAGE_1_2>
 				<STAGE_1_3>
-					<p>When you have 3 Security Keys head to the base of the antenna building to access the Security, Comms &amp; Admin rooms
+					<p>Une fois les 3 clés de sécurité obtenues, aller à la base du bâtiment d’antenne pour accéder aux salles sécurité, comms &amp; admin
 						</p>
 				</STAGE_1_3>
 				<STAGE_1_4>
-					<p>Acquire the Alignment Blades from each room (Blade respawn timer unknown)</p>
+					<p>Récupérer les lames d’alignement dans chaque piéce (temps de réapparition inconnu)</p>
 				</STAGE_1_4>
 				<STAGE_1_5>
-					<p>Insert each blade into the Dish Control console (1 minute cycle time) - This will wake </p>
-					<p>Juvenile Valakkar around the controls</p>
+					<p>Insérer chaque lame dans la console satellite (1 minute de cycle par insertion) - Ceci </p>
+					<p>réveillera les Valakkars juvéniles alentours</p>
 				</STAGE_1_5>
 				<STAGE_1_6>
-					<p>When dish is aligned, the charging station door opposite will open</p>
+					<p>Lorsque l’antenne est alignée, la porte de la station de chargement en face s’ouvrira</p>
 				</STAGE_1_6>
 				<STAGE_1_7>
-					<p>Take the GP-XP Battery up to OLP (MaxLift needed at 1g)</p>
+					<p>Récupérer la batterie GP-XP &amp; l’apporter à l’OLP (MaxLift nécessaire)</p>
 				</STAGE_1_7>
 				<STAGE_1_PARKOUR_NOTE>
-					<p>DON’T WASTE A KEY WHEN YOU CAN PARKOUR!</p>
+					<p>Ne gâche pas une clé quand tu peux parkour !</p>
 				</STAGE_1_PARKOUR_NOTE>
 				<ITEM_PAF_KEYS>
-					<p>PAF KEYS</p>
+					<p>CLÉS PAF</p>
 				</ITEM_PAF_KEYS>
 				<ITEM_ALIGNMENT_BLADE>
-					<p>Alignment blade</p>
+					<p>Lame d'alignement</p>
 				</ITEM_ALIGNMENT_BLADE>
 				<STAGE_2_NUM>
-					<p>STAGE 2</p>
+					<p>ÉTAPE 2</p>
 				</STAGE_2_NUM>
 				<STAGE_2_TITLE>
-					<p>Orbital laser platform</p>
+					<p>Plateforme de laser orbital (OLP)</p>
 				</STAGE_2_TITLE>
 				<STAGE_2_OBJECTIVE_TITLE>
-					<p>MAIN OBJECTIVE</p>
+					<p>OBJECTIF PRINCIPAL</p>
 				</STAGE_2_OBJECTIVE_TITLE>
 				<STAGE_2_OBJECTIVE>
-					<p>Power up the laser &amp; obtain the Laser Activation Key</p>
+					<p>Alimenter le laser &amp; obtenir la clé d’activation du laser</p>
 				</STAGE_2_OBJECTIVE>
 				<STAGE_2_SIDE_TITLE>
-					<p>SIDE INTEREST</p>
+					<p>INTERÊT SECONDAIRE</p>
 				</STAGE_2_SIDE_TITLE>
 				<STAGE_2_SIDE>
-					<p>2 OLP Storage Key printers in the main control area to access the 4 Storage Rooms</p>
+					<p>2 imprimantes de clés de stockage OLP dans la salle de contrôle principale (accès aux 4 salles de stockage)</p>
 				</STAGE_2_SIDE>
 				<STAGE_2_1>
-					<p>Tractor GP-XP Batteries to the open Power Units on the 2 landing pads</p>
+					<p>MaxLift les GP-XP pour ouvrir les unités d’alimentation sur les plateformes d’atterrissage</p>
 				</STAGE_2_1>
 				<STAGE_2_2>
-					<p>Head to the central control room (lower floor)</p>
+					<p>Se rendre à la salle de contrôle centrale (niveau inférieur)</p>
 				</STAGE_2_2>
 				<STAGE_2_3>
 					<p>
-						If all powered &amp; aligned: Activation button will be in the middle to print the laser activation key &amp; initiate laser charge
+						Si tous les systèmes sont alimentés &amp; alignés, le bouton d’activation sera au centre de la console pour imprimer la clé d’activation du laser &amp; lancer la charge du laser
 						</p>
 				</STAGE_2_3>
 				<ITEM_OLP_STORAGEKEY>
-					<p>OLP STORAGE KEY</p>
+					<p>CLÉ DE STOCKAGE OLP</p>
 				</ITEM_OLP_STORAGEKEY>
 				<STAGE_3_TITLE>
-					<p>GROUND ACTIVATION BUNKER</p>
+					<p>BUNKER D'ACTIVATION</p>
 				</STAGE_3_TITLE>
 				<STAGE_3_NUM>
-					<p>STAGE 3</p>
+					<p>ÉTAPE 3</p>
 				</STAGE_3_NUM>
 				<STAGE_3_OBJECTIVE_TITLE>
-					<p>MAIN OBJECTIVE</p>
+					<p>OBJECTIF PRINCIPAL</p>
 				</STAGE_3_OBJECTIVE_TITLE>
 				<STAGE_3_OBJECTIVE_TEXT>
-					<p>Find the bunker &amp; activate the laser!</p>
+					<p>Trouver le bunker &amp; déclencher le laser !</p>
 				</STAGE_3_OBJECTIVE_TEXT>
 				<STAGE_3_1>
-					<p>Bunker has no signature or marker &amp; can be hard to spot, head straight down from the laser emission point on the OLP
+					<p>Le bunker n’a ni signature ni marqueur &amp; peut être difficile à repérer. Descendre directement depuis le point d’émission du laser sur l’OLP
 						</p>
 				</STAGE_3_1>
 				<STAGE_3_2>
-					<p>Look for the square terrain tear if not in streaming distance</p>
+					<p>Chercher un terrain carré s’il est hors distance d’affichage</p>
 				</STAGE_3_2>
 				<STAGE_3_3>
-					<p>Bunker is approx 1km from the laser impact point</p>
+					<p>Le bunker est à environ 1 km du point d’impact du laser</p>
 				</STAGE_3_3>
 				<STAGE_3_4>
-					<p>Once found, insert the Laser Activation Key &amp; start the 5 second countdown! (just enough time to run outside)</p>
+					<p>Une fois trouvé, insérer la clé d’activation du laser &amp; déclencher le compte à rebours de 5 secondes (allez dehors !)</p>
 				</STAGE_3_4>
 				<STAGE_4_TITLE>
-					<p>LASER IMPACT SITE</p>
+					<p>SITE D'IMPACT DU LASER</p>
 				</STAGE_4_TITLE>
 				<STAGE_4_NUM>
-					<p>STAGE 4</p>
+					<p>ÉTAPE 4</p>
 				</STAGE_4_NUM>
 				<STAGE_4_OBJECTIVE_TITLE>
-					<p>MAIN OBJECTIVE</p>
+					<p>OBJECTIF PRINCIPAL</p>
 				</STAGE_4_OBJECTIVE_TITLE>
 				<STAGE_4_OBJECTIVE>
-					<p>Diggy diggy hole!</p>
+					<p>Creusons, creusons un trou!</p>
 				</STAGE_4_OBJECTIVE>
 				<STAGE_4_1>
 					<p>Laser impact site opens up a cave filled with Hand &amp; ROC ore nodes</p>
+					<p>L’impact du laser ouvre une grotte pour l’extraction à la main &amp; en ROC</p>
 				</STAGE_4_1>
 				<STAGE_4_2>
-					<p>Jaclium, Saldynium &amp; Carinite mixed sizes</p>
+					<p>Jaclium, Saldynium &amp; Carinite de toutes tailles</p>
 				</STAGE_4_2>
 				<ITEM_JACLIUM>
 					<p>Jaclium</p>
@@ -261,11 +262,11 @@
 					<p>Carinite</p>
 				</ITEM_CARINITE>
 				<ORE_WARNING>
-					<p>ORES ARE EXTREMELY SENSITIVE</p>
-					<p>MANAGE POWER CAREFULLY</p>
+					<p>MINÉRAUX EXTRÊMEMENT SENSIBLES</p>
+					<p>GÈREZ L'ÉNERGIE AVEC PRÉCAUTION</p>
 				</ORE_WARNING>
 				<TRANSLATED_BY>
-					<p>MrKraken</p>
+					<p>kiouv</p>
 				</TRANSLATED_BY>
 			</v:sampleDataSet>
 		</v:sampleDataSets>
