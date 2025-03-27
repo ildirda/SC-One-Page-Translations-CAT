@@ -22,3 +22,4 @@ I was originally going to set this up as a googlesheet and distribute the link t
 
 ## Contributors
 - Hathor :fr: translation by [kiouv](https://x.com/Journalduverse)
+- Hathor :cn: translation by cfdxkk / 星际公民中文百科
