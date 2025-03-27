@@ -77,7 +77,7 @@
 			<variable  category="&ns_flows;" trait="textcontent" varName="TRANSLATED_BY"></variable>
 		</variables>
 		<v:sampleDataSets  xmlns="http://ns.adobe.com/GenericCustomNamespace/1.0/" xmlns:v="http://ns.adobe.com/Variables/1.0/">
-			<!-- COPY FROM HERE - DO NOT REMOVE OR REPLACE -->
+			
 			<v:sampleDataSet  dataSetName="en_GB">
 				<TITLE>
 					<p>ORBITAL LASER IGNITION</p>
@@ -269,7 +269,7 @@
 					<p>MrKraken</p>
 				</TRANSLATED_BY>
 			</v:sampleDataSet>
-			<!-- END OF COPY BLOCK -->
+			
 			
 			
 			<v:sampleDataSet  dataSetName="fr_FR">
@@ -548,7 +548,7 @@
 				</STAGE_1_4>
 				<STAGE_1_5>
 					<p>将所有刀片插入碟形天线控制系统（每插入一个有 1 分</p>
-					<p>钟旋转时间）会有幼年体瓦拉卡从控制台周围钻出/p>
+					<p>钟旋转时间）会有幼年体瓦拉卡从控制台周围钻出</p>
 				</STAGE_1_5>
 				<STAGE_1_6>
 					<p>当碟形天线成功校准后，对面的黄色仓库门就会开启</p>
@@ -607,7 +607,7 @@
 					<p>主要目标</p>
 				</STAGE_3_OBJECTIVE_TITLE>
 				<STAGE_3_OBJECTIVE_TEXT>
-					<p>寻找地堡 & 启动激光！</p>
+					<p>寻找地堡 &amp; 启动激光！</p>
 				</STAGE_3_OBJECTIVE_TEXT>
 				<STAGE_3_1>
 					<p>地堡没有信标或标记，很难被发现，从 OLP 上的激光发射点垂直向下找
