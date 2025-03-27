@@ -23,5 +23,6 @@ I was originally going to set this up as a googlesheet and distribute the link t
 
 ## Translators
 - [Hathor Laser](https://robertsspaceindustries.com/community-hub/post/hathor-laser-one-page-guide-V4mCVfAgVSXbc)
-  - [x] :fr: by [kiouv](https://x.com/Journalduverse)
-  - [ ] :cn: by cfdxkk / 星际公民中文百科
+  - [x] 🇫🇷 by [kiouv](https://x.com/Journalduverse)
+  - [ ] 🇨🇳 by cfdxkk / 星际公民中文百科
+  - [ ] 🇭🇺 by Karajtek
