@@ -13,14 +13,37 @@ Unfortunately Illustrator started crashing whenever I tried to load the translat
 I'm now using new software to handle translations starting with Stormbreaker, and will be adding that to the repository soon & updating translation instructions
 
 ## How to use
-~~in the \GUIDENAME\ folders there is a variables.xml file~~
-- ~~Fork this repository~~
-- ~~Find `<v:sampleDataset dataSetName="en_GB"></v:sampleDataset>` & copy it~~
-- ~~Paste after `</v:sampleDataset>`, before `</v:sampleDataSets>`~~
-- ~~*Do not replace or remove any existing datasets*~~
-- ~~Change the new dataSetName to your region locale (eg fr_FR for french)~~
-- ~~When translation is complete, put in a pull request~~
-
+- In \GUIDENAME\ folders there will be a master.json file:
+  ```
+  {
+        "Language": "en_GB",
+        "Build": "4.2-PTU-9868328-RC2",
+        "Translated_By": "MrKraken"
+  },
+  {
+        "Language": "example",
+        "Build": "4.2-PTU-9868328-RC2",
+        "Translated_By": ""
+  }
+  ```
+  Add your translation after `}` being sure to add a comma `,` after the example object:
+    ```
+    {
+        "Language": "en_GB",
+        "Build": "4.2-PTU-9868328-RC2",
+        "Translated_By": "MrKraken"
+  },
+  {
+        "Language": "example",
+        "Build": "4.2-PTU-9868328-RC2",
+        "Translated_By": ""
+  },
+  {
+        "Language": "fr_FR",
+        "Build": "4.2-PTU-9868328-RC2",
+        "Translated_By": "MonsieurKraken"
+  }
+  ```
 
 ## Translators
 - [Hathor Laser](https://robertsspaceindustries.com/community-hub/post/hathor-laser-one-page-guide-V4mCVfAgVSXbc)
