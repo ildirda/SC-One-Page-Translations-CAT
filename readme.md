@@ -54,3 +54,4 @@ I'm now using new software to handle translations starting with Stormbreaker, an
   - [ ] 🇧🇷 by [Nxzzin](https://x.com/onxzzin)
   - [ ] 🇩🇪 by [L4ndry_de](https://x.com/L4ndry_de)
   - [ ] 🇫🇷 by m0nzo
+  - [ ] 🇺🇦 by Mr_Foxer / [Star Citizen #УкрТг](https://t.me/s/starcitizen_news)
