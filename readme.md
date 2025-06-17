@@ -51,4 +51,4 @@ I'm now using new software to handle translations starting with Stormbreaker, an
   - [x] 🇨🇳 by cfdxkk / 星际公民中文百科
   - [x] 🇭🇺 by Karajtek
 - [Storm Breaker](https://robertsspaceindustries.com/community-hub/post/storm-breaker-one-page-guide-XTU7HaiJkZyFs)
-  - Soon™
+  - [ ] 🇧🇷 by [Nxzzin](https://x.com/onxzzin)
