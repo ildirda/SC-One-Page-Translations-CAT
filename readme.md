@@ -53,3 +53,4 @@ I'm now using new software to handle translations starting with Stormbreaker, an
 - [Storm Breaker](https://robertsspaceindustries.com/community-hub/post/storm-breaker-one-page-guide-XTU7HaiJkZyFs)
   - [ ] 🇧🇷 by [Nxzzin](https://x.com/onxzzin)
   - [ ] 🇩🇪 by [L4ndry_de](https://x.com/L4ndry_de)
+  - [ ] 🇫🇷 by m0nzo
