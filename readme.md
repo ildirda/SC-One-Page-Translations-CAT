@@ -36,3 +36,6 @@ I'm now using new software to handle translations starting with Stormbreaker, an
   - [ ] 🇺🇦 by Mr_Foxer / [Star Citizen #УкрТг](https://t.me/s/starcitizen_news)
   - [ ] 🇪🇸 by one hundred nine 
   - [ ] 🇷🇺 by angu1ss / Ereglath / Chaos Vanguard
+  - [ ] Catalan by [Jordi](https://x.com/jansol)
+  - [ ] 🇭🇺 by Karajtek
+  - [ ] 🇰🇷 by chanyuii
