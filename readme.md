@@ -1,3 +1,7 @@
+## TEMPORARILY HALTING PULL REQUESTS
+Due to several issues with translation files and mixed encoding of characters, the master file is failing to load into the publishing software.
+I'll figure something out one way or another
+
 ## MrKraken's One Page Guide Translations
 This repository is dedicated to my one-page guides. I make them in illustrator and from 2025-03-20 am setting them up in a way for people to contribute translations.
 You can find the rendered versions on my [Community Hub profile](https://robertsspaceindustries.com/community-hub/user/MrKraken)
