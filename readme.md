@@ -13,37 +13,16 @@ Unfortunately Illustrator started crashing whenever I tried to load the translat
 I'm now using new software to handle translations starting with Stormbreaker, and will be adding that to the repository soon & updating translation instructions
 
 ## How to use
-- In \GUIDENAME\ folders there will be a master.json file:
+- In \GUIDENAME\ folders there will be a master.json:
   ```
   {
         "Language": "en_GB",
         "Build": "4.2-PTU-9868328-RC2",
         "Translated_By": "MrKraken"
-  },
-  {
-        "Language": "example",
-        "Build": "4.2-PTU-9868328-RC2",
-        "Translated_By": ""
   }
   ```
-  Add your translation after `}` being sure to add a comma `,` after the example object:
-    ```
-    {
-        "Language": "en_GB",
-        "Build": "4.2-PTU-9868328-RC2",
-        "Translated_By": "MrKraken"
-  },
-  {
-        "Language": "example",
-        "Build": "4.2-PTU-9868328-RC2",
-        "Translated_By": ""
-  },
-  {
-        "Language": "fr_FR",
-        "Build": "4.2-PTU-9868328-RC2",
-        "Translated_By": "MonsieurKraken"
-  }
-  ```
+ - Create a **new** JSON file for your locale, using `master.json` as a template (eg. `fr_FR.json` or `uk_UA.json`)
+ - If someone has already submitted a translation for your locale but you think it could be better translated, this is best handled between yourselves & then one person submit an agreed translation pull request. I have a dedicated channel in [my discord server](https://discord.gg/mrkraken) for helping facilitate this.
 
 ## Translators
 - [Hathor Laser](https://robertsspaceindustries.com/community-hub/post/hathor-laser-one-page-guide-V4mCVfAgVSXbc)
