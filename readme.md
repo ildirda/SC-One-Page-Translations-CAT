@@ -32,11 +32,11 @@ I'm now using new software to handle translations starting with Stormbreaker, an
   - [x] 🇭🇺 by Karajtek
 - [Storm Breaker](https://robertsspaceindustries.com/community-hub/post/storm-breaker-one-page-guide-XTU7HaiJkZyFs)
   - [ ] 🇧🇷 by [Nxzzin](https://x.com/onxzzin)
-  - [ ] 🇩🇪 by [L4ndry_de](https://x.com/L4ndry_de)
-  - [ ] 🇫🇷 by m0nzo / ThunderTRPs
-  - [ ] 🇺🇦 by Mr_Foxer / [Star Citizen #УкрТг](https://t.me/s/starcitizen_news)
-  - [ ] 🇪🇸 by one hundred nine 
+  - [x] 🇩🇪 by [L4ndry_de](https://x.com/L4ndry_de)
+  - [x] 🇫🇷 by m0nzo / ThunderTRPs
+  - [x] 🇺🇦 by Mr_Foxer / [Star Citizen #УкрТг](https://t.me/s/starcitizen_news)
+  - [x] 🇪🇸 by one hundred nine 
   - [ ] 🇷🇺 by angu1ss / Ereglath / Chaos Vanguard
-  - [ ] Catalan by [Jordi](https://x.com/jansol)
-  - [ ] 🇭🇺 by Karajtek
+  - [x] 🇪🇸-CT by [Jordi](https://x.com/jansol)
+  - [x] 🇭🇺 by Karajtek
   - [ ] 🇰🇷 by chanyuii
