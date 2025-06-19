@@ -17,6 +17,7 @@ I'm now using new software to handle translations starting with Stormbreaker, an
   ```
   {
         "Language": "en_GB",
+        "Guide_Version_Base": "2",
         "Build": "4.2-PTU-9868328-RC2",
         "Translated_By": "MrKraken"
   }
