@@ -4,6 +4,7 @@ Due to the overwhelming support for the community by translators, it's become cl
 
 I still want to support the translation of my guides as much as possible though! So what I will be doing going forward is:
 - Pushing the `/GuideName/` folder to this repository when I feel it's 'final'
+
 The folders will contain
 - Textless guide with a community translation disclaimer baked in
 - My English text layer rendered out as transparent PNG so you can overlay it whilst translating
