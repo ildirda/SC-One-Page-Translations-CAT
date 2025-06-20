@@ -1,6 +1,7 @@
 {
     "Language": "en_GB",
-    "Build": "4.2-PTU-9868328-RC2",
+    "Guide_Version_Base": "3",
+    "Build": "4.2-LIVE",
     "Translated_By": "MrKraken",
     "Title": "Storm Breaker",
     "Subtitle": "One-Page Guide",
@@ -57,7 +58,7 @@
     "Laz_5_1": "Insert egg into calling tower & get ready",
     "Laz_5_2": "Apex spawns with constant adult & juveniles popping up around the area",
     "Laz_5_3": "Aim for green pustule weak-spots & inner mouth",
-    "Laz_5_4": "Weak-spot hits show green splatter VFX",
-    "Laz_5_5": "Squirms every 20% of health taken out until last 20% gets struck by lightning",
+    "Laz_5_4": "Weak-spot hits show green splatter effect",
+    "Laz_5_5": "Squirm & lightning strike every 20% of health until last 20% spasms",
     "Laz_5_6": "When dead, 6 fangs & 15 pearls can be extracted"
 }
